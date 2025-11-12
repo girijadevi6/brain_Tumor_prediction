@@ -1,5 +1,0 @@
-tensorflow>=2.11
-keras
-numpy
-matplotlib
-scikit-learn
